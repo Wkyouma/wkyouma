@@ -1,5 +1,5 @@
 ### Ohayō sekai
-![Descrição do GIF](https://media.tenor.com/images/10668875.gif)
+![Nerowo Fsociety](https://media.tenor.com/3ItiA2urMygAAAAM/nerowo-fsociety.gif)
 
 
 ##
