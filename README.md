@@ -1,6 +1,7 @@
 ### Ohayō sekai
-![Nerowo Fsociety](https://media.tenor.com/3ItiA2urMygAAAAM/nerowo-fsociety.gif)
-![Descrição do GIF](https://64.media.tumblr.com/039ab308035b71fb702ab11accce41d0/tumblr_nvw0ppdZAu1qf2nmdo1_500.gif)
+<div align="center">
+    <img src="https://64.media.tumblr.com/039ab308035b71fb702ab11accce41d0/tumblr_nvw0ppdZAu1qf2nmdo1_500.gif" alt="Descrição do GIF">
+</div>
 
 
 
