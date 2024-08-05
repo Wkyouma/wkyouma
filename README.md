@@ -1,6 +1,6 @@
 ### Ohayō sekai
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 10px;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Wkyouma&show_icons=true&theme=dark"
