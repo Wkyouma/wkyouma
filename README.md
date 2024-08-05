@@ -1,9 +1,12 @@
-<div style="position: relative; text-align: center; color: red;">
-    <h3 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background-color: rgba(255, 255, 255, 0.5); padding: 5px; border-radius: 5px;">Ohayō sekai</h3>
+<div style="position: relative; text-align: center; display: inline-block;">
     <img src="https://64.media.tumblr.com/039ab308035b71fb702ab11accce41d0/tumblr_nvw0ppdZAu1qf2nmdo1_500.gif" 
          alt="Descrição do GIF" 
          style="border: 10px solid white; border-radius: 20px;">
+    <div style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color: red; background-color: rgba(255, 255, 255, 0.5); padding: 5px; border-radius: 5px;">
+        Ohayō sekai
+    </div>
 </div>
+
 
 ##
 
