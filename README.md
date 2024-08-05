@@ -1,4 +1,6 @@
 ### Ohayō sekai
+<img src="https://example.com/yourgif.gif" alt="Descrição do GIF">
+##
 
 <div style="display: flex; gap: 10px;">
   <picture>
