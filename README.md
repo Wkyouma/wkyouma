@@ -1,5 +1,5 @@
 ### Ohayō sekai
-![Descrição do GIF]([https://64.media.tumblr.com/039ab308035b71fb702ab11accce41d0/tumblr_nvw0ppdZAu1qf2nmdo1_500.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Ff-society-mask-glitch-logo-mr-robot-gif-10668875&psig=AOvVaw1B00zZugzLC-DfkhQEXP_l&ust=1722911781180000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC1gNfo3IcDFQAAAAAdAAAAABA6)
+![Descrição do GIF](https://media.tenor.com/images/10668875.gif)
 
 
 ##
