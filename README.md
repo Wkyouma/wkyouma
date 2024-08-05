@@ -1,5 +1,6 @@
-<h3 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background-color: rgba(255, 255, 255, 0.5); padding: 5px; border-radius: 5px;">Ohayō sekai</h3>
+
 <div align="center">
+    ***Ohayō sekai***
     <img src="https://64.media.tumblr.com/039ab308035b71fb702ab11accce41d0/tumblr_nvw0ppdZAu1qf2nmdo1_500.gif" alt="Descrição do GIF">
 </div>
 
