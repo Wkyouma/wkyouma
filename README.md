@@ -1,5 +1,5 @@
 ### Ohayō sekai
-<img src="https://example.com/yourgif.gif" alt="Descrição do GIF">
+<img src=["https://example.com/yourgif.gif"](https://discordapp.com/channels/@me/626809203129843723/1269845632965677060) alt="Descrição do GIF">
 ##
 
 <div style="display: flex; gap: 10px;">
