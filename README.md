@@ -15,5 +15,5 @@
 
 
 <a href="https://github.com/Wkyouma/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wkyouma&layout=compact&langs_count=8&card_width=320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wkyouma&repo=convoychat" />
 </a>
