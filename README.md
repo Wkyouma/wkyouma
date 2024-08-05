@@ -11,3 +11,11 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Wkyouma&show_icons=true" />
 </picture>
+
+
+<a href="https://github.com/Wkyouma/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wkyouma" />
+</a>
+<a href="https://github.com/Wkyouma/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wkyouma&layout=compact&langs_count=8&card_width=320" />
+</a>
