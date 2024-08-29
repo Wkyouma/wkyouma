@@ -1,6 +1,6 @@
 ***Ohayō sekai***
 <div align="center">
-    <img src="https://64.media.tumblr.com/039ab308035b71fb702ab11accce41d0/tumblr_nvw0ppdZAu1qf2nmdo1_500.gif" alt="Descrição do GIF" width="800" height="auto">
+    <img src="https://i.pinimg.com/originals/53/37/95/533795a4d8d7f7d5fbbc6678d4b52c5d.gif" alt="Descrição do GIF" width="800" height="auto">
 </div>
 
 ##
