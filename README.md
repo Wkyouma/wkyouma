@@ -1,6 +1,6 @@
 ***Ohayō sekai***
 <div align="center">
-    <img src="https://i.pinimg.com/originals/53/37/95/533795a4d8d7f7d5fbbc6678d4b52c5d.gif" alt="Descrição do GIF" width="800" height="auto">
+    <img src="https://i.pinimg.com/originals/53/37/95/533795a4d8d7f7d5fbbc6678d4b52c5d.gif" alt="Descrição do GIF" width="200" height="auto">
 </div>
 
 ##
