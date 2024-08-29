@@ -1,7 +1,5 @@
 ***Ohayō sekai***
-<div align="center">
-    <img src="https://i.pinimg.com/originals/53/37/95/533795a4d8d7f7d5fbbc6678d4b52c5d.gif" alt="Descrição do GIF" width="200" height="auto">
-</div>
+
 
 ##
 
@@ -32,4 +30,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" />
   <img height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+</div>
+<div align="center">
+    <img src="https://i.pinimg.com/originals/53/37/95/533795a4d8d7f7d5fbbc6678d4b52c5d.gif" alt="Descrição do GIF" width="600" height="300">
 </div>
