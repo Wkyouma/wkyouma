@@ -1,7 +1,5 @@
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22711D&size=35&center=true&vCenter=true&width=1000&lines=Ohay%C5%8D+sekai;My+name's+Igor+TerplakWelcome+%3A)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22711D&center=true&width=435&lines=Ohay%C5%8D+sekai;My+name's+Igor+Terplak;Welcome+%3C3)](https://git.io/typing-svg)
 
 ### Olá, eu sou o Igor Terplak Gutierrez! 👋
 
