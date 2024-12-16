@@ -37,11 +37,6 @@
  
 </div>
 
-#### Conhecimentos gerais:
-<div style="display: inline_block"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-</div>
 
 #### Sobre mim:
 - 🎓 Estudante do 5º semestre de Ciência da Computação na PUCPR;
