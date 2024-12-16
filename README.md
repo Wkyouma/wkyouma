@@ -3,9 +3,6 @@
 
 ### Olá, eu sou o Igor Terplak Gutierrez! 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wkyouma)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-terplak-gutierrez/)
-
-
 <div style="display: flex; gap: 10px;">
   <picture>
     <source
