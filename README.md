@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Igor+Terplak+Gutierrez;I+AM+FROM+Fortaleza,+Brazil;I+AM+A+COMPUTER+SCIENCE+STUDENT;WELCOME!+:%29)](https://git.io/typing-svg)
 
@@ -16,15 +16,13 @@
     <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
 </div>
 
 #### Conhecimentos gerais e hobbies:
 <div style="display: inline_block"> 
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Guitar-FCC624?style=for-the-badge&logo=music&logoColor=black" alt="Guitar"/>
-    <img src="https://img.shields.io/badge/Violin-EF2D5E?style=for-the-badge&logo=music&logoColor=white" alt="Violin"/>
+
 </div>
 
 #### Sobre mim:
@@ -41,4 +39,4 @@
 <br>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
