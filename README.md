@@ -35,11 +35,6 @@
 </div>
 
 
-#### Sobre mim:
-- 🎓 Estudante do 5º semestre de Ciência da Computação na PUCPR;
-- 💻 Experiência com projetos em React, Flask, Spark e FreeRTOS;
-
-
 
 
 
